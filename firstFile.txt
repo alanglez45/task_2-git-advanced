@@ -1,8 +1,8 @@
-Line 1 - git_1
+Line 1 first update in git_1
 Line 2 - git_1
 Line 3 - git_1
 Line 4 - git_1
-Line 5 - git_1
+Line 5 first update in git_1
 Line 6 - git_1
 Line 7 - git_1
 Line 8 - git_1
